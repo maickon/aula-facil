@@ -1,0 +1,9 @@
+Nome::Maickon José Rangel
+Disciplinas:: Programação básica, Algoritmos, Programação web
+Valor Hora:: R$ 20,00
+Telefone:: (22) 99614-9758
+Email:: maickon4developers@gmail.com
+Local:: IFF campos
+Profile URI:: https://scontent.fgig3-1.fna.fbcdn.net/v/t1.0-9/1463149_604240096309885_1617269446_n.jpg?oh=2c74a082a95e57553e9577b6ef02fca3&oe=58368660
+Formação:: Sistemas de Informação
+Sobre:: Formado pelo Instituto federal fluminense, com mais de 4 anos de experiência com monitoria. Desenvolvedor web com mais de 3 anos de experiência.

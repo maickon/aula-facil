@@ -1,0 +1,9 @@
+Nome::Mariana gomes
+Disciplinas:: Programação básica
+Valor Hora:: R$ 20,00
+Telefone:: (22) 99612-1192
+Email:: mariana_developer@gmail.com
+Local:: Data Campos
+Profile URI:: http://bonniesomerville.nz/wp-content/uploads/2015/08/profile-icon.png
+Formação:: Ciência da computação
+Sobre:: Formado pelo Instituto federal fluminense, com mais de 1 anos de experiência com aulas de monitoria monitoria.

@@ -1,0 +1,45 @@
+li a.min-text{
+	font-size: 12px !important;
+}
+
+.btn-extra-large{
+	padding: 15px 23px;
+	margin-bottom: 10px;
+	font-size: 17.5px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.title, .title-prof{
+	color: #39d084;
+	text-align: inline;
+	font-size: 16px;
+	display: block;
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+
+.title-prof{
+	font-size: 26px;
+	font-weight: bolder;
+}
+
+.sub-title{
+	color: white;
+	font-size: 12px;
+}
+
+.title a{
+	color: #39d084;
+	text-decoration: none;
+}
+.profdata{
+	font-size: 12px;
+	height: 150px;
+}
+
+.profdata:hover{
+	background-color: white;
+	color: black;
+}
