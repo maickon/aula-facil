@@ -64,3 +64,21 @@ li a.min-text{
 	background-color: white;
 	color: black;
 }
+
+.brand{
+	margin-top: 6px;
+}
+
+.discipline-link{
+	color: white;
+	font-size: 18px;
+	padding-bottom: 10px;
+	width: auto;
+	margin: 12px;
+	text-align: center;
+}
+
+.discipline-link:hover{
+	color: red;
+	text-decoration: none;
+}

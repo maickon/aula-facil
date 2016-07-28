@@ -1,9 +1,9 @@
 Nome::Jorgerson meireles
-Disciplinas:: Portugês, Matemática, Física e Biologia
+Disciplinas:: Portugês, Matemática , Física , Biologia 
 Valor Hora:: R$ 20,00
 Telefone:: (22) 93223-9758
 Email:: gm.prof@gmail.com
 Local:: IFF campos
-Profile URI:: http://www.bonstutoriais.com.br/wp-content/uploads/2012/10/Fotografias-de-familia-mixadas-por-Ulric-Collette-8.jpg
+Profile URI:: http://fotos.areah.com.br/images/fotos/mh_interna_168733318.jpg
 Formação:: Bacharelado em Ensino básico.
 Sobre:: Tenho experiência com aulas para adolecentes da 5° série até ao 3° ano do ensino mádio.

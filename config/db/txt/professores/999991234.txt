@@ -1,5 +1,5 @@
 Nome::Felipe marcos
-Disciplinas:: Portugês, Matemática, Física e Biologia
+Disciplinas:: Portugês, Matemática, Física, Biologia
 Valor Hora:: R$ 24,00
 Telefone:: (22) 93223-9758
 Email:: fe.prof@gmail.com

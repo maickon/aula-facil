@@ -34,8 +34,8 @@ const POST_URL = URL_BASE . 'posts/view/';
 const POSTS_URL = URL_BASE . 'posts/';
 const TEACHER_URL = URL_BASE . 'professor/view/';
 const TEACHERS_URL = URL_BASE . 'professor/';
-const SUBJECTS_URL = URL_BASE . 'disciplina/';
-const SUBJECT_URL = URL_BASE . 'disciplina/view/';
+const SUBJECTS_URL = URL_BASE . 'disciplinas/';
+const SUBJECT_URL = URL_BASE . 'disciplinas/view/';
 const ABOUT_URL = URL_BASE . 'sobre/';
 
 // config paths
@@ -47,10 +47,10 @@ const POSTS_DB_PATH = 'config/db/txt/posts/';
 const ABOUT_DB_PATH = 'config/db/txt/about/';
 
 // medias sociais
-const FACEBOOK_URL = "https://www.facebook.com/helprpg.br/";
-const TWITTER_URL = "https://twitter.com/HelpRpgBr";
-const GOOGLE_PLUS_URL = "https://plus.google.com/u/1/+HelpRpgBr/posts";
-const YOU_TUBE_URL = "https://www.youtube.com/channel/UCVx62ydCm9D9JubvsEQXwlA";
-const WORDPRESS_URL = "https://helprpg.wordpress.com/";
-const TUMBLR_URL = "https://www.tumblr.com/blog/helprpg";
+const FACEBOOK_URL = "https://www.facebook.com/499969790197324/";
+const TWITTER_URL = "https://twitter.com/aulafacil";
+const GOOGLE_PLUS_URL = "https://plus.google.com/u/1/+aulafacil/posts";
+const YOU_TUBE_URL = "https://www.youtube.com/channel/aulafacil";
+const WORDPRESS_URL = "https://aulafacil.wordpress.com/";
+const TUMBLR_URL = "https://www.tumblr.com/blog/aulafacil";
 	

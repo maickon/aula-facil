@@ -7,3 +7,10 @@ const HOME_LABEL = 'Home';
 const TEACHERS_LABEL = 'Professores';
 const SUBJECTS_LABEL = 'Disciplinas';
 const ABOUT_LABEL = 'Sobre';
+const ADVERTISING_LABEL = 'Publicidade';
+const MORE_LABEL = 'Mais...';
+const READ_MORE_LABEL = 'Leia mais...';
+
+const NAME_FB_LABEL = 'Facebook';
+const NAME_TW_LABEL = 'Twitter';
+const NAME_GO_LABEL = 'Google+';

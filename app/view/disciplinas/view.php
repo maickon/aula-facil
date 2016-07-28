@@ -2,7 +2,7 @@
 
 $tag->div('class="container"');
 	$tag->div('class="row"');
-		foreach ($all as $key => $value) {
+		foreach ($disciplines as $key => $value) {
 			$id = explode('.', $value['id']);
 			$tag->div('class="col-md-12"');
 				$tag->div('class="col-md-3"');

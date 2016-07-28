@@ -5,7 +5,7 @@ $tag->div('class="container"');
 		$tag->div('class="col-md-9"');
 			
 			$tag->h1('class="title-prof"');
-				$tag->i('class="icon-attach"'); $tag->i;
+				$tag->i('class="icon-newspaper"'); $tag->i;
 				$tag->printer($posts_view['Titulo']);
 			$tag->h1;
 			

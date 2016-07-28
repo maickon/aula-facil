@@ -107,8 +107,7 @@ class Files_Model{
 		return $formatted_file;
 	}
 
-	function find_teacher_by_discipline($discipline, $files){
-		$file_path = PROFESORES_DB_PATH;
+	function list_teacher_by_discipline($file_path, $files, $discipline){
 		$formatted_files = array();
 		$formatted_file = array();
 
@@ -117,24 +116,21 @@ class Files_Model{
 				$open_file = file_get_contents("{$file_path}{$value}");
 				$file_name = $value;
 				$array_file = explode("\n", $open_file);
-				// echo "/$discipline/". '--' . $array_file[1].'<br>';
-				preg_match("/$discipline /", "aulas de Matemática ", $matches);
-				if (!empty($matches)) {
-					print_r($matches);
-				} else {
-					// echo 'chupal';
-				}
+	
+				preg_match("/$discipline/", explode('::', $array_file[1])[1], $matches);
+
 				if (!empty($matches)) {
 					foreach ($array_file as $key => $value) {
 						$array_file_line = explode('::', $value);
 						$formatted_file[$array_file_line[0]] = $array_file_line[1];
 						$formatted_file['id'] = explode('.', $file_name)[0];
 					}
+
+					$formatted_files[] = $formatted_file;				
 				}
 			} else {
 				echo '<b>Arquivo não encontrado.</b>';
 			}
-			$formatted_files[] = $formatted_file;
 		}
 
 		return $formatted_files;
