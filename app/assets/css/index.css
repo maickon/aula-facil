@@ -11,7 +11,7 @@ li a.min-text{
 	border-radius: 6px;
 }
 
-.title, .title-prof{
+.title, .title-prof, .adsense-title{
 	color: #39d084;
 	text-align: inline;
 	font-size: 16px;
@@ -25,6 +25,12 @@ li a.min-text{
 	font-weight: bolder;
 }
 
+.adsense-title{
+	font-size: 22px;
+	font-weight: bolder;
+	padding-top: 50px;
+}
+
 .sub-title{
 	color: white;
 	font-size: 12px;
@@ -34,6 +40,21 @@ li a.min-text{
 	color: #39d084;
 	text-decoration: none;
 }
+
+.title a:hover{
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.post-title a{
+	color: #39d084;
+	text-decoration: none;
+}
+
+.post-title a:hover{
+	color: #FF0000;
+}
+
 .profdata{
 	font-size: 12px;
 	height: 150px;

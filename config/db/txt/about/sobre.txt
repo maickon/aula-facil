@@ -1,0 +1,39 @@
+<h1>O que é o Aula Fácil?</h1>
+
+<p>
+O Aula Fácil é uma plataforma online que visa melhor aproximação entre alunos e professores de todas áreas. 
+</p>
+
+<h4>
+Nosso objetivo é simples!
+</h4>
+
+<p>
+Professores de qualquer área que desejam ganhar um extra com aulas particulares disponibilizam informações como valor hora/aula, disciplina que leciona e dados para contato para alunos interessados.
+</p>
+
+<p>
+Aquele aluno que estiver interessado em uma aula particular, através dos dados do professor em nossa plataforma entra em contato com um professor para agendar uma aula de reforço caso seja possível. 
+</p>
+
+<p>
+Com isso o professor desfruta de mais um local livre e simples para divulgar o seu trabalho e com isso alcançar um maior número de alunos e os alunos adquirem mais um local na qual possam procurar por professores para lhe ajudarem em alguma disciplina específica.
+<p>
+
+<h4>
+Como encontrar um professor?
+</h4>
+
+<p>
+Através da página home você encontra uma listagem de alguns professores cadastrados em nossa plataforma, para visualizar todos, basta acessar a página <b>professores</b>. Você também pode encontrar um professor através da página <b>disciplinas</b> onde os professores são separados pelas disciplinas que lecionam. 
+</p>
+
+<h4>
+Esta é uma versão beta
+</h4>
+<p>
+Esta é uma versão beta de nossa aplicação. Suas funcionalidades por enquanto são simples, visamos apenas promover o encontro de professor e aluno que compartilhem o mesmo ambiente geográfico.
+</p>
+<p>  
+As informações cadastradas aqui são adicionadas pela equipe do Aula Fácil, em breve estaremos ampliando as funcionalidades de nossa aplicação para dar a liberdade de cadastro de nossos usuários.   
+</p>

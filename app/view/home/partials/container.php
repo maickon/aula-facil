@@ -41,6 +41,36 @@
 					}
 					
 				$tag->div;
+
+				$tag->div('class="col-md-3"');
+					$tag->h3();
+						$tag->small();
+							$tag->printer('Últimas ');
+						$tag->small;
+						$tag->printer('Postagens...');
+					$tag->h3;
+					foreach ($all_posts as $key => $value) {
+						$id = explode('.', $value['id']);
+						$tag->p();	
+							$tag->span('class="post-title"');
+								$tag->a('href="'.POST_URL.$id[0].'"');
+									$tag->printer($value['Titulo']);
+								$tag->a;
+							$tag->span;
+							$tag->br();
+							$tag->small();
+								$tag->printer("Postado: {$value['Data']} - {$value['Hora']}");
+							$tag->small;
+						$tag->p;
+					}
+					if (count($all_posts) > 3) {
+						$tag->span('class="post-title"');
+							$tag->a('href="#"');
+								$tag->printer('Leia mais...');
+							$tag->a;
+						$tag->span;
+					}
+				$tag->div;
 			$tag->div;
 		$tag->div;
 

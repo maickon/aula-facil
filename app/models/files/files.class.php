@@ -9,6 +9,53 @@ class Files_Model{
 		return $files;
 	}
 
+	function get_unique_file($file_path, $files){
+		$open_file = null;
+		$new_files = array();
+
+		foreach ($files as $key => $value) {
+			if (file_exists("{$file_path}{$value}")) {
+				$open_file = file_get_contents("{$file_path}{$value}");
+			} else {
+				echo '<b>Arquivo não encontrado.</b>';
+			}
+		}
+		return $open_file;
+	}
+
+	function scaffold_post_data($file_path, $files, $limited){
+		$formatted_files = array();
+		$formatted_file = array();
+		$new_files = array();
+
+		if ($limited != null) {
+			$keys = array_rand($files, $limited);
+
+			foreach ($keys as $value) {
+				$new_files[] = $files[$value];
+			}
+		} else {
+			$new_files = $files;
+		}
+
+		foreach ($new_files as $key => $value) {
+			if (file_exists("{$file_path}{$value}")) {
+				$open_file = file_get_contents("{$file_path}{$value}");
+				$file_name = $value;
+				$array_file = explode("\n", $open_file);
+				foreach ($array_file as $key => $value) {
+					$array_file_line = explode('::', $value);
+					$formatted_file[$array_file_line[0]] = $array_file_line[1];
+					$formatted_file['id'] = explode('.', $file_name)[0];
+				}
+			} else {
+				echo '<b>Arquivo não encontrado.</b>';
+			}
+			$formatted_files[] = $formatted_file;
+		}
+		return $formatted_files;
+	}
+	
 	function scaffold_data($file_path, $files, $limited){	
 		$formatted_files = array();
 		$formatted_file = array();

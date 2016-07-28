@@ -8,6 +8,7 @@ class Home_Controller{
 		$tag = new Tags_Lib;
 		$professor = new Professor_Model;
 		$professores = $professor->all();
+		$all_posts = (new Posts_Model)->all();
 		require (new Render_Lib('home/index'))->get_required_path();
 	}
 }

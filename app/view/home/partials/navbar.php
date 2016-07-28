@@ -12,10 +12,10 @@ $tag->div('class="navbar"');
         $tag->img('src="'.IMG_LOGO_PATH.'" alt=""');
       $tag->a;
       $_MENU = [
-                [URL_BASE, HOME_LABEL],
-                [TEACHERS_URL, TEACHERS_LABEL],
-                [SUBJECTS_URL, SUBJECTS_LABEL],
-                [ABOUT_URL, ABOUT_LABEL]
+                [URL_BASE, HOME_LABEL, 'icon-home-outline'],
+                [TEACHERS_URL, TEACHERS_LABEL, 'icon-graduation-cap-1'],
+                [SUBJECTS_URL, SUBJECTS_LABEL, 'icon-book'],
+                [ABOUT_URL, ABOUT_LABEL, 'icon-bank']
               ];
 
       $tag->ul('class="nav nav-collapse pull-right"');
@@ -23,7 +23,7 @@ $tag->div('class="navbar"');
         foreach ($_MENU as $key => $value) {
           $tag->li();
             $tag->a('href="'.$value[0].'" class="'.$active_css.'"');
-              $tag->i('class="icon-home-outline"'); $tag->i; 
+              $tag->i('class="'.$value[2].'"'); $tag->i; 
               $tag->printer($value[1]);
             $tag->a; 
           $tag->li;

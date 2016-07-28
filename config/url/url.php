@@ -30,6 +30,8 @@ const IMG_TW_PATH = URL_BASE . "app/assets/img/tw.png";
 const IMG_LOGO_PATH = URL_BASE . "app/assets/img/logo.png";
 
 // views URL
+const POST_URL = URL_BASE . 'posts/view/';
+const POSTS_URL = URL_BASE . 'posts/';
 const TEACHER_URL = URL_BASE . 'professor/view/';
 const TEACHERS_URL = URL_BASE . 'professor/';
 const SUBJECTS_URL = URL_BASE . 'disciplina/';
@@ -41,6 +43,8 @@ const CONFIG_TXT_PATH = 'config/txt/';
 const CONFIG_DB_PATH = 'config/db/';
 const CONFIG_ERRORS_PATH = 'config/errors/';
 const PROFESORES_DB_PATH = 'config/db/txt/professores/';
+const POSTS_DB_PATH = 'config/db/txt/posts/';
+const ABOUT_DB_PATH = 'config/db/txt/about/';
 
 // medias sociais
 const FACEBOOK_URL = "https://www.facebook.com/helprpg.br/";
