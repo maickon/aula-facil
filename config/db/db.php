@@ -1,8 +1,8 @@
 <?php
-// Help RPG Database configuration
+// Database configuration
 
 //data base name
-const DB_NAME = 'helpr248_producao';
+const DB_NAME = '';
 
 // data base host
 const DB_HOST = 'localhost';
