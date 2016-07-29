@@ -25,10 +25,19 @@ li a.min-text{
 	font-weight: bolder;
 }
 
+.title-prof a{
+	color: #39d084;
+	text-decoration: none;
+}
+
+.title-prof a:hover{
+	color: #FF0000;
+}
+
 .adsense-title{
 	font-size: 22px;
 	font-weight: bolder;
-	padding-top: 50px;
+	padding-top: 0px;
 }
 
 .sub-title{

@@ -5,7 +5,7 @@ class Professor_Model{
 		$files = new Files_Model;
 		$file_names = $files->get_files(PROFESORES_DB_PATH);
 		$formatted_files = $files->scaffold_data(PROFESORES_DB_PATH, $file_names, $limited);
-		return $formatted_files;
+		return $files->rand_file_list($formatted_files, $limited);
 	}
 
 	function show($id){

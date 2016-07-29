@@ -14,4 +14,9 @@ class Disciplinas_Controller{
 		$disciplines = (new Disciplinas_Model)->list_all_by_discipline($discipline);
 		require (new Render_Lib('disciplinas/view'))->get_required_path();
 	}
+
+	function error(){
+		$tag = new Tags_Lib;
+		require (new Render_Lib('disciplinas/error'))->get_required_path();
+	}
 }

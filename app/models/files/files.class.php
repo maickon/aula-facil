@@ -135,4 +135,17 @@ class Files_Model{
 
 		return $formatted_files;
 	}
+
+	function rand_file_list($file_list, $size = 1){
+		if ($size == null) $size = count($file_list);
+		$new_file_list = array();
+
+		$indice_file_list = array_rand($file_list, $size);
+		
+		foreach ($indice_file_list as $key => $value) {
+			$new_file_list[] = $file_list[$value];
+		}
+
+		return $new_file_list;
+	}
 }

@@ -15,4 +15,9 @@ class Posts_Controller{
 		$tag = new Tags_Lib;
 		require (new Render_Lib('posts/view'))->get_required_path();
 	}
+
+	function error(){
+		$tag = new Tags_Lib;
+		require (new Render_Lib('posts/error'))->get_required_path();
+	}
 }

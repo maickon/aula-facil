@@ -61,7 +61,9 @@ class Routes_Lib{
 					$object->$action($parameters);	
 				}
 			} else {
-				(new Errors_Lib())->show("Classe {$class} não existe.");
+				// (new Errors_Lib())->show("Classe {$class} não existe.");
+				$home = new Home_Controller;
+				$home->index();
 			}
 		} else {
 			$home = new Home_Controller;
