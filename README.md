@@ -1,10 +1,10 @@
 # Projeto Aula Fácil
 Projeto beta do aulafacil
 # Instalação (ambiente windows)
-1. Baixar Xampp control panel
+1. Baixar Xampp control panel (neste link:<a href="https://www.apachefriends.org/xampp-files/5.6.23/xampp-win32-5.6.23-0-VC11-installer.exe"> Xampp 32 bit </a>)
 2. Baixar este projeto
-3. Descompactar este projeto dentro da pasta htdoc localizado em C:\xampp\htdocs
-4. Abrir o arquivo url.php dentro do projeto em config/url/url.php
+3. Descompactar este projeto dentro da pasta htdocs localizado em C:\xampp\htdocs
+4. Abrir o arquivo url.php dentro do projeto em aula-facil/config/url/url.php
 5. Editar as linhas abaixo
 <br>
 ```php
