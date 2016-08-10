@@ -11,14 +11,21 @@ const CSS_STYLE_SINGLE_PAGE = URL_BASE . 'app/assets/css/style-single-page.css';
 const CSS_INDEX = URL_BASE . 'app/assets/css/index.css';
 const CSS_FONTELLO = URL_BASE . 'app/assets/css/font/css/fontello.css';
 const CSS_LAYOUT = URL_BASE . 'app/assets/css/layout.css';
+const CSS_BOOTSTRAP_SELECT = URL_BASE . 'app/assets/css/bootstrap-select.min.css';
 
 // js path
 const JS_JQUERY = URL_BASE . 'app/assets/js/jquery-1.10.1.min.js';
 const JS_FANCYBOX = URL_BASE . 'app/assets/js/jquery.fancybox.js';
 const JS_BOOTSTRAP = URL_BASE . 'app/assets/js/bootstrap.js';
+const JS_INDEX = URL_BASE . 'app/assets/js/index.js';
+const JS_BOOTSTRAP_SELECT = URL_BASE . 'app/assets/js/bootstrap-select.min.js';
+const JS_MASK = URL_BASE . 'app/assets/js/jquery.mask.js';
+const JS_VALIDATE = URL_BASE . 'app/assets/js/jquery.validate.js';
 
 // posts path
 const POST_PATH = URL_BASE_INTERNAL . 'config/txt/posts/';
+// disciplinas path
+const DISCIPLINAS_PATH = URL_BASE_INTERNAL . 'config/db/txt/disciplinas/disciplinas.txt';
 
 // img path
 const IMG_DR_PATH = URL_BASE . "app/assets/img/dr.png";
@@ -37,6 +44,9 @@ const TEACHERS_URL = URL_BASE . 'professores/';
 const SUBJECTS_URL = URL_BASE . 'disciplinas/';
 const SUBJECT_URL = URL_BASE . 'disciplinas/view/';
 const ABOUT_URL = URL_BASE . 'sobre/';
+
+// form URL
+const TEACHER_SAVE_URL = URL_BASE . 'professores/save/';
 
 // config paths
 const CONFIG_TXT_PATH = 'config/txt/';

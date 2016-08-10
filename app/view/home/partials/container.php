@@ -43,9 +43,15 @@ $tag->div('class="container"');
 					$tag->a('href="'.TEACHERS_URL.'" class="title"');
 						$tag->printer(MORE_TEATHER_LABEL);
 					$tag->a;
-				$tag->span;
-				$tag->br();
+				$tag->span;	
 			$tag->div;
+
+		$tag->div;
+
+		$tag->div('class="col-md-3"');
+			$tag->button('type="button" class="btn btn-lg" data-toggle="modal" data-target="#myModal"');
+				$tag->printer(NEW_TEACHER_LABEL);
+			$tag->button;
 		$tag->div;
 
 		$tag->div('class="col-md-3"');
@@ -81,6 +87,7 @@ $tag->div('class="container"');
 					$tag->a;
 				$tag->span;
 			}
+
 		$tag->div;
 	$tag->div;
 $tag->div;

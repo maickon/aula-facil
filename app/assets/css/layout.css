@@ -3983,6 +3983,7 @@ to {
 	left: 50%;
 	z-index: 1050;
 	width: 560px;
+	height: 540px;
 	margin-left: -280px;
 	background-color: #ffffff;
 	border: 1px solid #999;
@@ -4028,7 +4029,7 @@ to {
 	overflow-y: auto;
 	max-height: 400px;
 	padding: 15px;
-	text-align: center;
+	text-align: left;
 	color:#242424;
 }
 .modal-form {

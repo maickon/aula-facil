@@ -21,4 +21,15 @@ class Professores_Controller{
 		$tag = new Tags_Lib;
 		require (new Render_Lib('professor/error'))->get_required_path();
 	}
+
+	function novo(){
+		$tag = new Tags_Lib;
+		$helper_disciplinas = explode("\n", (new Disciplinas_Helper())->disciplinas_list());
+		$helper = new Professor_Helper;
+		require (new Render_Lib('professor/new'))->get_required_path();
+	}
+
+	function save(){
+		return print_r($_REQUEST);
+	}
 }

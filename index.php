@@ -7,7 +7,7 @@ $tag->html();
 		$tag->title(); 
 			$tag->printer('Aula Fácil');
 		$tag->title;
-		$_CSS = [ CSS_BOOTSTRAP, CSS_LAYOUT, CSS_FONTELLO, CSS_FANCYBOX, CSS_STYLE_IE, CSS_STYLE_SINGLE_PAGE, CSS_INDEX];
+		$_CSS = [ CSS_BOOTSTRAP, CSS_LAYOUT, CSS_FONTELLO, CSS_FANCYBOX, CSS_STYLE_IE, CSS_STYLE_SINGLE_PAGE, CSS_INDEX, CSS_BOOTSTRAP_SELECT];
 	        // <!-- CORE CSS -->
 	        foreach ($_CSS as $key => $value) {
 	            $tag->link('href="' . $value . '" rel="stylesheet"');
@@ -80,7 +80,11 @@ $tag->html();
 					
 		// <!-- CORE JS -->
 		$_JS = [JS_JQUERY,
-				JS_BOOTSTRAP
+				JS_BOOTSTRAP,
+				JS_BOOTSTRAP_SELECT,
+				JS_MASK,
+				JS_VALIDATE,
+				JS_INDEX
 				];
 		foreach ($_JS as $key => $value) {
 		    $tag->script('src="' . $value . '"'); 

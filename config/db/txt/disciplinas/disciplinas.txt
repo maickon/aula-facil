@@ -1,0 +1,433 @@
+Cosmogonia
+Cosmologia
+Aerobiologia
+Anatomia
+Anatomia comparada
+Anatomia humana
+Antropologia biológica
+Bioinformática
+Biofísica
+Biogeografia
+Biologia celular
+Biologia evolutiva
+Biologia humana
+Biologia marinha
+Biologia molecular
+Bioquímica
+Química
+Botânica
+Comunicação animal
+Criobiologia
+Cronobiologia
+Ecologia
+Ecologia humana
+Ecologia de populações
+Ecologia de comunidades
+Ecologia evolutiva
+Macroecologia
+Embriologia
+Endocrinologia
+Etologia
+Ficologia
+Fisiologia
+Filosofia
+Genética
+Citogenética
+Genética de Eucariotas
+Genética de Procariotas
+Genética de Populações
+Genômica
+Histologia
+Imunologia
+Limnologia
+Microbiologia
+Bacteriologia
+Micologia
+Virologia
+Neurobiologia
+Parasitologia
+Paleontologia
+Patologia
+Xenobiologia
+Zoologia
+Entomologia
+Herpetologia
+Ictiologia
+Malacologia
+Mastozoologia
+Primatologia
+Ornitologia
+Astrofísica
+Física
+Biofísica
+Criogênica
+Dinâmica dos fluidos
+Dinâmica de veículos
+Fisica
+Física atômica
+Física molecular
+Física óptica
+Fisica computacional
+Física do estado denso da matéria
+Física nuclear
+Física quântica
+Física de partículas
+Física do plasma
+Óptica
+Física teórica
+Geociências
+Biogeografia
+Ciências da Terra
+Ciências ambientais
+Ciências da Atmosfera
+Climatologia
+Geodésia
+Geofísica
+Geografia
+Geologia
+Geomorfologia
+Glaciologia
+Hidrologia
+Meteorologia
+Mineralogia
+Oceanografia
+Paleontologia
+Pedologia
+Sedimentologia
+Vulcanologia
+Bioengenharia
+Saúde
+Farmácia
+Farmacognosia
+Fitoquímica
+Farmacologia
+Farmacocinética
+Farmacodinâmica
+Farmacotécnica
+Farmacoterapêutica
+Homeopatia
+Farmácia hospitalar
+Fisioterapia
+Fonoaudiologia
+Medicina
+Cardiologia
+Coloproctologia
+Dermatologia
+Medicina legal
+Neurociência
+Oftalmologia
+Pneumologia
+Urologia
+Medicina veterinária
+Clínica e Cirurgia Animal
+Anestesiologia Animal
+Clínica Cirúrgica Animal
+Clínica Veterinária
+Farmacologia e Terapêutica Animal
+Obstetrícia Animal
+Radiologia Animal
+Técnica Cirúrgica Animal
+Toxicologia Animal
+Inspeção de Produtos de Origem Animal
+Medicina Veterinária Preventiva
+Doenças Infecciosas de Animais
+Doenças Parasitárias de Animais
+Epidemiologia Animal
+Saneamento Aplicado a Saúde do Homem
+Saúde Animal (Programas Sanitários)
+Patologia Animal
+Anatomia Patológica Animal
+Patologia Aviária
+Patologia Clínica Animal
+Reprodução Animal
+Fisiopatologia da Reprodução Animal
+Ginecologia e Andrologia Animal
+Inseminação Artificial Animal
+Nutrição
+Odontologia
+Cirurgia e traumatologia bucomaxilofacial
+Dentística
+Disfunção temporomandibular e dor orofacial
+Endodontia
+Implantodontia
+Oclusão
+Odontologia do trabalho
+Odontopediatria
+Odontogeriatria
+Odontologia legal
+Ortodontia e ortopedia facial
+Ortopedia funcional
+Periodontia
+Português
+Matemática
+Matemática Pura
+Matemática Aplicada
+Matemática Álgebra
+Matemática Análise
+Matemática Cálculo
+Matemática Geomática
+Matemática Estatística
+Matemática Geometria
+Matemática Teoria da informação
+Matemática Teoria dos jogos
+Matemática Teoria dos números
+Matemática Teoria da probabilidade
+Matemática Topologia
+Matemática Sub-áreas
+Ciências da computação
+Algoritmos
+Arquitetura de Computadores
+Banco de Dados
+Computação Gráfica
+Engenharia de Software
+Gerenciamento de Projetos de Software
+Inteligência Artificial
+Linguas(Inglês)
+Linguas(Espanhol)
+Linguas(Japonês)
+Linguas(Mandarim)
+Linguas(Latim)
+Linguas(Alemão)
+Interação humano-computador
+Linguagens de Programação
+Mecatrônica
+Programação
+PHP
+Python
+C++
+C#
+C
+Ruby
+Ruby on Rails
+Java
+HTML
+CSS
+HTML e CSS
+Javascript
+Objective-C
+Visual Basic
+Perl
+Shell
+Scala
+Haskell
+Matlab
+Go
+Clojure
+Assembly
+Basic
+SQL
+MySQL
+GitHub
+Git
+Pascal
+Groovy
+Programação web
+Redes
+Windows
+Linux
+Lógica de programação
+Hardware
+Programação Estruturada
+Programação OO
+Gerência de projetos
+Robótica
+Sistemas de Informação
+Sistemas Operacionais
+Teoria da Computação
+História
+História da África
+História dos Estados Unidos
+História antiga
+História da China
+História da ciência política
+Etno-história
+História cultural
+História da economia
+História do mundo
+Antropologia
+Antropologia biológica
+Antropologia forense
+Antropologia Comportamento dos primatas
+Antropologia Evolução humana
+Antropologia Genética de populações
+Antropologia cultural
+Antropologia cultural econômica
+Antropologia cultural política
+Antropologia cultural psicológica
+Antropologia cultural da religião
+Antropologia cultural urbana
+Antropologia cultural Etnografia
+Antropologia cultural Etnohistória
+Antropologia cultural Etnologia
+Arqueologia
+Linguística antropológica
+Linguística antropológica Etnolinguística
+Linguística antropológica Linguística diacrônica ou histórica
+Linguística antropológica Linguística sincrônica ou descritiva
+Linguística antropológica Psicolinguística
+Linguística antropológica Sociolinguística
+Comunicações
+Comunicação animal
+Comunicação interpessoal
+Comunicação Administração pública
+Comunicação Diplomacia pública
+Comunicação Marketing
+Comunicação Propaganda
+Comunicação Relações públicas
+Comunicação não-verbal
+Comunicação oral
+Telecomunicações
+Telecomunicações Comunicação mediada por computador
+Telecomunicações Teoria da informação
+Economia
+Economia Econometria
+Economia Macroeconomia
+Economia Microeconomia
+Economia História econômica
+Economia História do pensamento econômico
+Administração de empresas
+Administração de empresas Administração
+Administração de empresas Gestão
+Ciências Contábeis
+Ciências Contábeis Auditoria
+Ciências Contábeis Perícia
+Ciências Contábeis Controladoria
+Arquitetura e Urbanismo
+Projeto de arquitetura
+Projeto paisagístico
+Desenho urbano
+Desenho arquitetônico
+História da Arquitetura
+História do Urbanismo
+História das cidades
+Linguagem arquitetônica
+Design
+Design Programação visual
+Design Desenho industrial
+Conforto ambiental
+Acústica arquitetônica
+Térmica arquitetônica
+Ergonomia
+Iluminação
+Construção civil
+Preservação do patrimônio
+Conservação arquitetônica
+Restauro arquitetônico
+Planejamento urbano e regional
+Gestão urbana
+Política urbana
+Direito
+Ciência Política
+Direito Administrativo
+Direito Aduaneiro
+Direito Aéreo
+Direito Agrário
+Direito Ambiental
+Direito Civil
+Direito da Família
+Direito das Obrigações
+Direito das Sucessões
+Direitos Reais
+Direito Comercial
+Direito Comunitário
+Direito Constitucional
+Direito do Consumidor
+Direito Espacial
+Direito Financeiro
+Direito Internacional Privado
+Direito Internacional Público
+Direito Marítimo
+Direito Penal
+Direito Penitenciário
+Direito Previdenciário
+Direito Processual Civil
+Direito Processual Penal
+Direito Processual do Trabalho
+Direito do Trabalho
+Direito Tributário
+Direito Urbanístico
+Hermenêutica
+Psicologia Forense
+Educação Física
+Anatomia Humana
+Cinesiologia
+Ginástica
+Ginástica rítmica desportiva
+Ginástica de Academia
+Ginástica Olímpica
+Educação Física Corridas
+Educação Física Saltos
+Educação Física Arremessos ou Lançamentos
+Educação Física Desporto olímpico
+Educação Física Basquetebol
+Educação Física Futsal
+Educação Física Arco e flecha
+Educação Física Arremesso de peso
+Educação Física Atletismo
+Educação Física Automobilismo
+Educação Física Beisebol
+Educação Física Boxe
+Educação Física Canoagem
+Educação Física Capoeira
+Educação Física Ciclismo
+Educação Física Corrida
+Educação Física Corrida
+Educação Física Críquete
+Educação Física Esgrima
+Educação Física Esportes de inverno
+Educação Física Futebol americano
+Educação Física Futebol
+Educação Física Ginástica Artística
+Educação Física Golfe
+Educação Física Hóquei no gelo
+Educação Física Handebol
+Educação Física Hipismo
+Educação Física Judô
+Educação Física Lançamento de dardo
+Educação Física Lançamento de disco
+Educação Física Lançamento de martelo
+Educação Física Maratona
+Educação Física Marcha atlética
+Educação Física Natação
+Educação Física Patinação
+Educação Física Remo
+Educação Física Salto com vara
+Educação Física Salto em altura
+Educação Física Salto em distância
+Educação Física Salto triplo
+Educação Física Tênis
+Educação Física Vela
+Educação Física Voleibol
+Educação Física Xadrez
+Artes plásticas
+Composição
+Pintura
+Escultura
+Desenho
+Gravura
+Acompanhamento Musical
+Música de câmara
+Música Sacra
+Composição Musical
+Direção
+Direção Coral
+Direção de Orquestra
+Música Antiga
+Jazz e Novas Tecnologias
+Educação Musical
+Teoria da Pedagogia Musical
+História da Música
+Teoria da Música
+Musicologia
+Etnomusicologia
+Representação e Literatura
+Órgão e Teclado Histórico
+Piano
+Cordas
+Harpa
+Guitarra
+Canto
+Madeiras
+Metais
+Percussão
+Estudos Orquestrais
