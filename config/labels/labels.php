@@ -14,6 +14,8 @@ const MORE_TEATHER_LABEL = 'Mais professores...';
 const POSTED_LABEL = 'Postado';
 const LAST_LABEL = 'Últimas';
 const POST_LABEL = 'Postagens...';
+const YOUR_DATA_LABEL = 'Seus dados';
+const YOUR_TOKEN_LABEL = 'Seu código de acesso: ';
 
 const ERROR_404 = 'Esta página não pode ser encontrada!';
 const OPTION_GO_TEACHER = 'Visualisar professores.';

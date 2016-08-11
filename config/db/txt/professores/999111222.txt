@@ -1,6 +1,6 @@
 Nome::Eliana das graças
 Disciplinas:: Inglês 
-Valor Hora:: R$ 25,00
+Valor Hora:: 25,00
 Telefone:: (22) 93223-9758
 Email:: eliana.prof@gmail.com
 Local:: UFF campos

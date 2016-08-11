@@ -1,6 +1,6 @@
 Nome::Roberto Garcia Mendes
 Disciplinas:: Marketing
-Valor Hora:: R$ 20,00
+Valor Hora:: 20,00
 Telefone:: (22) 93223-9758
 Email:: roberto-g.prof@gmail.com
 Local:: IFF campos

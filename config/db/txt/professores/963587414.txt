@@ -1,6 +1,6 @@
 Nome::Maickon José Rangel
 Disciplinas:: Programação básica, Algoritmos, Programação web
-Valor Hora:: R$ 20,00
+Valor Hora:: 20,00
 Telefone:: (22) 99614-9758
 Email:: maickon4developers@gmail.com
 Local:: IFF campos

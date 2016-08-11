@@ -49,9 +49,9 @@ $tag->div('class="container"');
 		$tag->div;
 
 		$tag->div('class="col-md-3"');
-			$tag->button('type="button" class="btn btn-lg" data-toggle="modal" data-target="#myModal"');
+			$tag->a('href="'.TEACHERS_GOOGLE_FORM_URL.'" class="btn btn-lg"');
 				$tag->printer(NEW_TEACHER_LABEL);
-			$tag->button;
+			$tag->a;
 		$tag->div;
 
 		$tag->div('class="col-md-3"');

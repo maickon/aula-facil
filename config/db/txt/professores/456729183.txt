@@ -1,6 +1,6 @@
 Nome::Mariana gomes
 Disciplinas:: Programação básica
-Valor Hora:: R$ 20,00
+Valor Hora:: 20,00
 Telefone:: (22) 99612-1192
 Email:: mariana_developer@gmail.com
 Local:: Data Campos

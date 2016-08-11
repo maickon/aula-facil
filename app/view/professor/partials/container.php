@@ -23,7 +23,7 @@ $tag->div('class="container"');
 
 				$tag->p();
 					$tag->i('class="icon-right-hand"'); $tag->i;
-					$tag->printer($professor_view['Valor Hora']);
+					$tag->printer("R$ {$professor_view['Valor Hora']}");
 				$tag->p;
 
 				$tag->p();
@@ -66,7 +66,7 @@ $tag->div('class="container"');
 							$tag->printer($value['Disciplinas']);
 						$tag->p;
 						$tag->p();
-							$tag->printer($value['Valor Hora']);
+							$tag->printer("R$ {$value['Valor Hora']}");
 						$tag->p;
 					$tag->div;
 				}

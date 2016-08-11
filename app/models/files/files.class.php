@@ -100,8 +100,6 @@ class Files_Model{
 				$formatted_file[$array_file_line[0]] = $array_file_line[1];
 				$formatted_file['id'] = $id;
 			}
-		} else {
-			echo '<b>Arquivo não encontrado.</b>';
 		}
 
 		return $formatted_file;

@@ -1,6 +1,6 @@
 Nome::Roger santana
 Disciplinas:: Música para violão 
-Valor Hora:: R$ 15,00
+Valor Hora:: 15,00
 Telefone:: (22) 99614-1040
 Email:: rogerviolao@gmail.com
 Local:: Escola de música Campos

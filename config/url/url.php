@@ -41,6 +41,7 @@ const POST_URL = URL_BASE . 'posts/view/';
 const POSTS_URL = URL_BASE . 'posts/';
 const TEACHER_URL = URL_BASE . 'professores/view/';
 const TEACHERS_URL = URL_BASE . 'professores/';
+const TEACHERS_GOOGLE_FORM_URL = URL_BASE . 'professores/form/';
 const SUBJECTS_URL = URL_BASE . 'disciplinas/';
 const SUBJECT_URL = URL_BASE . 'disciplinas/view/';
 const ABOUT_URL = URL_BASE . 'sobre/';

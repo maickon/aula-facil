@@ -1,6 +1,6 @@
 Nome::Verônica matos
 Disciplinas:: Hardware
-Valor Hora:: R$ 30,00
+Valor Hora:: 30,00
 Telefone:: (22) 99854-9159
 Email:: veronica_prof@gmail.com
 Local:: UFF

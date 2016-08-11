@@ -11,6 +11,18 @@ li a.min-text{
 	border-radius: 6px;
 }
 
+.green{
+	color: #39d084;
+}
+
+.google-form{
+	width: 100%;
+	border: none;
+	height: 340%;
+	margin-top: -18px;
+	overflow: scroll;
+}
+
 .title, .title-prof, .adsense-title{
 	color: #39d084;
 	text-align: inline;

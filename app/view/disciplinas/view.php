@@ -21,7 +21,7 @@ $tag->div('class="container"');
 						$tag->printer("{$value['Disciplinas']}");
 
 						$tag->i('class="icon-right-hand"'); $tag->i;	
-						$tag->printer("{$value['Valor Hora']} (hora/aula)");
+						$tag->printer("R$ {$value['Valor Hora']} (hora/aula)");
 
 						$tag->i('class="icon-phone"'); $tag->i;	
 						$tag->printer("{$value['Telefone']}");

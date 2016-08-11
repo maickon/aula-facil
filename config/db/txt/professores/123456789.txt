@@ -1,6 +1,6 @@
 Nome::Jorge Magnus Ferreira 
 Disciplinas:: História
-Valor Hora:: R$ 10,00
+Valor Hora:: 10,00
 Telefone:: (22) 95672-9238
 Email:: jorge_historiador@gmail.com
 Local:: IFF campos
